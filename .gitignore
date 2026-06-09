@@ -1,0 +1,9 @@
+build/
+docs/
+others/
+
+# Editor / OS noise
+*.user
+.vs/
+Thumbs.db
+desktop.ini
